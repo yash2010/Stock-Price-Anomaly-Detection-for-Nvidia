@@ -2,6 +2,8 @@
 
 This project analyzes stock price data using an LSTM-based autoencoder to detect anomalies in stock price movements. The dataset is processed, scaled, and modeled to identify significant changes in stock prices.
 
+I have used the date and close price features for this model.
+
 # Features
 
 - Data preprocessing and scaling
